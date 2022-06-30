@@ -73,17 +73,16 @@
 <br/>  
 
 
+
+  
+
+
+  
+
+<br/>  
+
+  
 <img src="https://media2.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" align="left" style="width: 100%" />  
-  
-
-<br/>  
-
-  
-
-<br/>  
-
-  
-
 <br/>  
 
 <div align="center">
@@ -97,4 +96,3 @@
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
