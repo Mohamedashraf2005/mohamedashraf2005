@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://media.istockphoto.com/vectors/dream-big-silhouette-of-man-with-raised-arms-looking-at-the-open-to-vector-id1252341000?k=20&m=1252341000&s=612x612&w=0&h=F-pFF46SoeCsUVO0HMzhH6W6tBOVRH_1L2x87bgvDiI=" align="center" style="width: 100%" />
+<img src="https://media.istockphoto.com/vectors/dream-big-silhouette-of-man-with-raised-arms-looking-at-the-open-to-vector-id1252341000?k=20&m=1252341000&s=612x612&w=0&h=F-pFF46SoeCsUVO0HMzhH6W6tBOVRH_1L2x87bgvDiI=" align="center"  height="400px" width="100%" />
 </div>  
   
 
@@ -81,7 +81,7 @@
   
 
 <br/>  
-
+<br/>  
 
 ## Recent Blog Posts  
   
