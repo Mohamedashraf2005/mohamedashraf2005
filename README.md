@@ -25,19 +25,7 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
 </div>
 
-
-
-
-### Backend  
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
-</div>
-
-
-
-
 <br/>  
-
 
 ## Connect with me  
 <div align="center">
@@ -76,8 +64,9 @@
 
 <br/>  
 
-  
-<img src="https://media2.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" align="left" style="width: 100%" />  
+  <div align="center">
+<img src="https://media2.giphy.com/media/13HgwGsXF0aiGY/giphy.gif"  style="width: 100%" />  
+  </div> 
 <br/>  
 
 <div align="center">
